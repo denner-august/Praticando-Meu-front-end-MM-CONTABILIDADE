@@ -4,9 +4,9 @@
 - não esqueça de deixar Responsivo
 
 <strong>
-- Divirta-se a principal ideia é que você pratique 
+-1 Divirta-se a principal ideia é que você pratique 
   <br>
-- não esqueça de adicionar o projeto ao seu portfólio ao concluir
+-2 não esqueça de adicionar o projeto ao seu portfólio ao concluir
   <br>
-- você pode usar a parte de ferramentas para ajudar na escolha de cores
+-3 você pode usar a parte de ferramentas para ajudar na escolha de cores
 </strong>
