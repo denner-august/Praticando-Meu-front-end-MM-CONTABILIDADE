@@ -14,7 +14,10 @@
 -5 Você pode tenta usar o diplay flex para facilitar o posicionamento dos itens
 <br>
 -6 Não esqueça de adicionar seu nome ao final do projeto como
- 
 </strong>
+<br>
+<img src="./image/parte1.png" alt="imagem do desafio">
+
+<img src="./image/parte2.png" alt="imagem do desafio">
 
 
